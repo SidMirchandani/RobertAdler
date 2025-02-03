@@ -195,7 +195,7 @@ main {
   width: 200px;
   height: 200px;
   object-fit: cover;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
   border-radius: 30px;
   box-shadow: rgba(63,133,244,0.2) 0px 10px 100px;
   border: 16px white solid;
@@ -361,5 +361,5 @@ h3{
 }
 
 #extra-gap{
-  gap: 5%;
+  gap: 2%;
 }
